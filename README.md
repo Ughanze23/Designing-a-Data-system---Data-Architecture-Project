@@ -1,4 +1,4 @@
-# Design-Data-system
+# Design a Data Warehouse for Reporting and OLAP
 
 In this project scenario, students will use actual YELP and climate datasets in order to analyze the effects the weather has on customer reviews of restaurants. The data for temperature and precipitation observations are from the Global Historical Climatology Network-Daily (GHCN-D) database. Students will use a leading industry cloud-native data warehouse system called Snowflake for all aspects of the project.
 
