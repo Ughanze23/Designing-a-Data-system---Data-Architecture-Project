@@ -4,3 +4,5 @@ In this project scenario, students will use actual YELP and climate datasets in 
 
 Students will then apply the skills they have acquired in the preceding Designing Data Systems Course to architect and design a Data Warehouse DWH for the purpose of reporting and online analytical processing (OLAP).
 
+
+The zip file contains a report on the work done to complete this project
